@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Knight: Trận Chiến Quái Vật",
+  "description": "Game hành động 2D phong cách pixel: điều khiển hiệp sĩ cầm kiếm với joystick, tiêu diệt 5 quái vật để triệu hồi Boss và chiến đấu giành chiến thắng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
